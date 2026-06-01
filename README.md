@@ -1,0 +1,2 @@
+# Smart-City-Traffic-Light-Control-Using-Reinforcement-Learning
+This project proposes a smart traffic light control system based on reinforcement learning that can adapt its decisions according to real-time traffic conditions at a four-way intersection. A lane-wise Q-learning approach is used, where the system observes the number of vehicles waiting in each direction and decides which signal should turn green.
